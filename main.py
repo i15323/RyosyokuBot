@@ -14,12 +14,11 @@ import sys
 import urllib
 #import tweepy
 import json
-import commands
 import re
 #from requests_oauthlib import OAuth1Session
 import datetime
 import locale
-
+import commands
 
 
 
@@ -108,10 +107,5 @@ week = commands.getoutput("./bin/DeleteSpace ./pdfData/kondate02.txt 4")
 wlen = len(week) / 3
 print(wlen)
 
-#日付データ取得
-d = datetime.datetime.today()
-print '%s年%s月%s日' % (d.year, d.month, d.day)
-# hour, minute, second, microsecond
-print '%s時%s分' % (d.hour, d.minute)
 
 os.system("./bin/DeleteSpace ./pdfData/kondate02.txt 5")
