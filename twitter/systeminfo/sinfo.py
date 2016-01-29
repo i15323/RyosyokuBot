@@ -14,10 +14,10 @@ import subprocess
 
 
 #各種キーをセット
-CK = '52gM9Kqm0kyakg6bFuaTRadjD'
-CS = '4nYS0gJOVCl4AGz1zJjRpgHlLL3h3NDn923qYK64HZSdLUN7km' 
-AT = '1699390044-wXGIV448zEJy6dJgkNeuCf0vsF3dmCPWNTAXqJE'
-AS = '4faPrVacqhgxWr3urabKjDKj1CvjoYD2BSs8ZmcnVgyZn'
+CK = 
+CS = 
+AT = 
+AS = 
 
 
 url = "https://api.twitter.com/1.1/statuses/update.json"
