@@ -95,6 +95,10 @@ for line in open('pdfData/kondate01.txt', 'r'):
 		pass
 	elif (line.find('食塩') != -1):
 		pass
+	elif (line.find('香川高専詫間') != -1):
+		pass
+	elif (line.find('週 間 献 立 表') != -1):
+		pass
 	else:
 		f9 = open('./pdfData/kondate02.txt', 'a')
 		f9.write(line)
