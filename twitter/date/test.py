@@ -5,10 +5,10 @@ import datetime
 import locale
 from requests_oauthlib import OAuth1Session
 
-CK = '52gM9Kqm0kyakg6bFuaTRadjD'                          # Consumer Key
-CS = '4nYS0gJOVCl4AGz1zJjRpgHlLL3h3NDn923qYK64HZSdLUN7km' # Consumer Secret
-AT = '1699390044-wXGIV448zEJy6dJgkNeuCf0vsF3dmCPWNTAXqJE' # Access Token
-AS = '4faPrVacqhgxWr3urabKjDKj1CvjoYD2BSs8ZmcnVgyZn'      # Accesss Token Secert
+CK = ''                          # Consumer Key
+CS = '' # Consumer Secret
+AT = '' # Access Token
+AS = ''      # Accesss Token Secert
 
 # ツイート投稿用のURL
 url = "https://api.twitter.com/1.1/statuses/update.json"
