@@ -1,7 +1,7 @@
 # 寮食Bot [ RyosyokuBot ]
 
 [![Build Status](http://img.shields.io/travis/tweepy/tweepy/master.svg?style=flat)](https://travis-ci.org/tweepy/tweepy)
-[![Downloads](http://img.shields.io/pypi/dm/tweepy.svg?style=flat)](https://crate.io/packages/tweepy) [![Version](http://img.shields.io/pypi/v/tweepy.svg?style=flat)](https://crate.io/packages/tweepy)
+[![Downloads](http://img.shields.io/pypi/dm/tweepy.svg?style=flat)](https://crate.io/packages/tweepy)
 [![Coverage Status](https://img.shields.io/coveralls/tweepy/tweepy/master.svg?style=flat)](https://coveralls.io/r/tweepy/tweepy?branch=master)
 
 
