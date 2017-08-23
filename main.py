@@ -1,11 +1,7 @@
-#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
 # main.py for "RyosyokuBot on Twitter"
 # Author : KOMATSU Seiya @ NIT, Kagawa College Takuma Campus Dept. of IT
-
-
-
 
 #----------import library----------
 import os
