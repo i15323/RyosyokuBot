@@ -13,3 +13,5 @@
 
 
 連絡先：i15323@kagawa.kosen-ac.jp
+
+Webページ：http://linapp0.sr.kagawa-nct.ac.jp/~i15323/RyosyokuBot
