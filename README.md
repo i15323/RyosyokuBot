@@ -12,6 +12,9 @@
 
 
 
-連絡先：i15323@kagawa.kosen-ac.jp
+連絡先：
+i15323@kagawa.kosen-ac.jp
 
-Webページ：http://linapp0.sr.kagawa-nct.ac.jp/~i15323/RyosyokuBot
+Webページ：
+http://linapp0.sr.kagawa-nct.ac.jp/~i15323/RyosyokuBot
+http://github.com/i15323/RyosyokuBot
